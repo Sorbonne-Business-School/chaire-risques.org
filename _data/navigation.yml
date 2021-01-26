@@ -1,13 +1,11 @@
-- name: 
-  link: /#
+- name: Axes de recherche
+  link: /axes/  
+- name: Organisation
+  link: /organisation/
   dropdown:
-    - name: Axes de recherche
-      link: /axes/
-    - name: Organisation
-      link: /organisation/
     - name: Membres
       link: /membres/
-    - name: Nous contacter
-      link: /contact/
-- name: Blog
+- name: Publications
   link: /blog/
+- name: Nous contacter
+  link: /contact/

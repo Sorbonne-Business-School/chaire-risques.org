@@ -1,9 +1,9 @@
 # Site Settings
-title: Chaire Risques
-tagline: Bulma Clean Theme
+title: 
+tagline: IAE de Paris, Sorbonne Business School
 email: your-email@domain.com
 description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
+  IAE de Paris, Sorbonne Business School
 baseurl: ""
 url: ""
 permalink: pretty
