@@ -1,31 +1,27 @@
 style: is-light
 height: is-medium
 items:
-  - title: Example callout 1
-    subtitle: Example subtitle 1
+  - title: Comprendre
+    subtitle: Comprendre la façon dont la société se structure face aux nouveaux risques (cybersécurité, normes et évolution des prises de décision)
     icon: fa-space-shuttle
     description: >
-      The example description text goes here and can be multiple lines.
-
-      For example, such as this. 
-    call_to_action_name: Call to action 1
-    call_to_action_link: /page-1/
-  - title: Example callout 2
-    subtitle: Example subtitle 2
+      La Chaire est un lieu de réflexion, de collaboration, et de travail scientifique, académique et professionnel autour de la thématique Risques.
+    call_to_action_name: Nos travaux
+    call_to_action_link: /blog/
+  - title: Réunir
+    subtitle: La chaire Risques de l’IAE de Paris (Sorbonne Business School) réunit une équipe pluridisciplinaire dont les travaux de recherche sont orientés sur la thématique des risques. 
     icon: fa-wrench
     description: >
-      The example description text goes here and can be multiple lines.
-
-      For example, such as this.
-    call_to_action_name: Call to action 2
-    call_to_action_link: /page-2/
-  - title: Example callout 3
-    subtitle: Example subtitle 3
+      Le sujet étant transversal par nature, la chaire est conçue comme un « hub » pour des recherches autour de la notion de risque. 
+      
+      Elle vise à fédérer des chercheurs, mais aussi à servir de centre de ressources et de compétences afin de pouvoir répondre à des demandes d’entreprises, de professionnels et plus largement sociales.
+    call_to_action_name: Nos membres
+    call_to_action_link: /membres/
+  - title: Informer
+    subtitle: Vous souhaitez nous rejoindre en tant que partenaire ? 
     icon: fa-github
     icon_brand: true
     description: >
-      The example description text goes here and can be multiple lines.
-
-      For example, such as this.
-    call_to_action_name: Call to action 3
-    call_to_action_link: https://www.csrhymes.com/bulma-clean-theme/page-3/
+      Nous rassemblons des équipes de très haut niveau national et international et offrons une grande visibilité à nos partenaires, en leur offrant des accès collaboratifs à des projets et développements structurants (études stratégiques, formations, Think Tank, learning expeditions, etc).
+    call_to_action_name: Nous rejoindre
+    call_to_action_link: /contact/

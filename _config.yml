@@ -1,14 +1,14 @@
 # Site Settings
-title: Bulma Clean Theme
+title: Chaire Risques
 tagline: Bulma Clean Theme
 email: your-email@domain.com
 description: >
   The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
-baseurl: "/bulma-clean-theme"
-url: "https://www.csrhymes.com"
+baseurl: ""
+url: ""
 permalink: pretty
 #favicon: /path/to/favicon.png
-gh_sponsor: chrisrhymes
+#gh_sponsor: chrisrhymes
 #hide_share_buttons: true
 #theme_color: '#eeeeee'
 #fixed_navbar: top
@@ -21,8 +21,10 @@ disqus:
   # Leave shortname blank to disable comments site-wide.
   # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
   # shortname: my_disqus_shortname
-  shortname: csrhymes
+  shortname: 
 
+include:
+  - _pages
 
 plugins:
   - jekyll-sitemap
