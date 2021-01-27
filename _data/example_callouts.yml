@@ -2,14 +2,15 @@ style: is-light
 height: is-medium
 items:
   - title: Comprendre
-    subtitle: Comprendre la façon dont la société se structure face aux nouveaux risques (cybersécurité, normes et évolution des prises de décision)
+    subtitle: <br>Comprendre la façon dont la société se structure face aux nouveaux risques (cybersécurité, normes et évolution des prises de décision)
     icon: fa-brain
     description: >
-      La Chaire est un lieu de réflexion, de collaboration, et de travail scientifique, académique et professionnel autour de la thématique Risques.
+      La chaire est un lieu de réflexion, de collaboration, et de travail scientifique, académique et professionnel autour de la thématique Risques.
+      <br><br><br><br>
     call_to_action_name: Nos travaux
     call_to_action_link: /blog/
   - title: Réunir
-    subtitle: La chaire Risques de l’IAE de Paris (Sorbonne Business School) réunit une équipe pluridisciplinaire dont les travaux de recherche sont orientés sur la thématique des risques. 
+    subtitle: <br>La chaire réunit une équipe pluridisciplinaire dont les travaux de recherche sont orientés sur la thématique des risques 
     icon: fa-handshake
     description: >
       Le sujet étant transversal par nature, la chaire est conçue comme un « hub » pour des recherches autour de la notion de risque. 
@@ -18,9 +19,10 @@ items:
     call_to_action_name: Nos membres
     call_to_action_link: /membres/
   - title: Informer
-    subtitle: Vous souhaitez nous rejoindre en tant que partenaire ? 
+    subtitle: <br>Vous souhaitez nous rejoindre en tant que partenaire de la chaire Risques de l'IAE de Paris ? <br><br> 
     icon: fa-rss
     description: >
       Nous rassemblons des équipes de très haut niveau national et international et offrons une grande visibilité à nos partenaires, en leur offrant des accès collaboratifs à des projets et développements structurants (études stratégiques, formations, Think Tank, learning expeditions, etc).
+      <br>
     call_to_action_name: Nous rejoindre
     call_to_action_link: /contact/
