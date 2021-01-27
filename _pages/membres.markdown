@@ -6,17 +6,13 @@ permalink: /membres/
 
 L’équipe se structure autour d’un noyau dur de chercheurs permanents en sciences de gestion et d’un réseau de chercheurs associés ou partenaires dans différentes disciplines, avec plusieurs niveaux de participation. 
 
-Les disciplines représentées sont les suivantes :
+Les IAE ont un positionnement stratégique dans la formation publique au management et diplômante des cadres de haut niveau, notamment des ingénieurs, depuis plus de 60 ans. Cet ancrage traditionnel, à la fois dans le milieu académique et le monde de l’entreprise, en particulier industriel, se retrouve dans les disciplines inscrites dans la Chaire et l'ouverture vers toutes les autres disciplines qui peuvent nourrir la réflexion et la pratique :
 
 <ul>
-    <li>Sciences de gestion</li>
-    <li>Économie</li>
-    <li>Droit</li>
-    <li>Sociologie</li>
-    <li>Sciences pour l’ingénieur</li>
-    <li>Sciences médicales</li>
-    <li>Psychologie</li>
-</ul>
+    <li>Economie-Gestion et Droit</li> 
+    <li>Sciences de l'ingénieur</li>
+    <li>Autres disciplines dont la sociologie, la psychologie, les sciences médicales, etc.</li>
+</ul> 
 
 Les méthodes mobilisées sont à l’image de cette diversité des disciplines : méthodes qualitatives, expériences, études d’évaluation, études statistiques, recherche-intervention… 
 
@@ -24,7 +20,7 @@ Certains membres associés de la chaire RIN sont des acteurs socio-économiques 
 
 De surcroît, ces collaborations étroites permettent une diffusion large des recherches des membres de l’axe auprès du monde socio-économique et d’envisager le développement de programmes de recherche communs.
 
-### Enseignants chercheurs permanents
+## Enseignants chercheurs permanents
 <ul>
     <li>Isabelle Cadet, IAE de Paris (droit et management)</li>
     <li>Jean-Yves Dantan, ENSAM (sciences pour l’ingénieur)</li>
@@ -37,7 +33,7 @@ De surcroît, ces collaborations étroites permettent une diffusion large des re
     <li>Ali Siadat, ENSAM (sciences pour l’ingénieur)</li>
 </ul>
 
-### Chercheurs associés
+## Chercheurs associés
 <ul>
     <li>Olivier Brandouy, Université de Bordeaux (finance)</li>
     <li>Laure Cabantous, Cass Business School, City University of London (management)</li>
@@ -63,7 +59,7 @@ De surcroît, ces collaborations étroites permettent une diffusion large des re
     <li>Laura Rouly, IAE Paris</li>
 </ul>
 
-### Membres associés
+## Membres associés
 <ul>
     <li>Olivier Catherine, Directeur Compliance, Bureau Veritas</li>
     <li>Nicolas Dechy, Institut de Radioprotection et de Sûreté Nucléaire (IRSN)</li>
