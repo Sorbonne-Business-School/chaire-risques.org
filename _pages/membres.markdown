@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Membres de la Chaire
+title: Les membres de la Chaire
+subtitle: Un noyau dur de chercheurs
 permalink: /membres/
 ---
 
