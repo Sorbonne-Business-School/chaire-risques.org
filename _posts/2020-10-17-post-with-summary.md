@@ -5,6 +5,7 @@ summary: |-
     This is the custom summary for the post.
 
     It can be in **markdown format** if required.
+published: false
 ---
 
 This is the text for the post. It won't be used as the excerpt as it will use the custom summary set in the post instead. 
