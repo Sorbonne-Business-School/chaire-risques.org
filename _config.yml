@@ -56,7 +56,7 @@ defaults:
       type: "pages"
     values:
       show_sidebar: true
-      hero_image: "/img/istockphoto-155742227-1024x1024.jpg"
+      hero_image: "img/istockphoto-155742227-1024x1024.jpg"
   -
     scope:
       path: ""
