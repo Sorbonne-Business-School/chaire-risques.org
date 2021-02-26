@@ -8,7 +8,7 @@ permalink: pretty
 #favicon: /path/to/favicon.png
 #gh_sponsor: chrisrhymes
 #hide_share_buttons: true
-theme_color: '#eeeeee'
+#theme_color: '#eeeeee'
 #fixed_navbar: top
 
 paginate: 5
@@ -56,7 +56,7 @@ defaults:
       type: "pages"
     values:
       show_sidebar: true
-      hero_image: "/assets/images/istockphoto-155742227-1024x1024.jpg"
+      hero_image: "/chaire-risques-bulma/assets/images/istockphoto-155742227-1024x1024.jpg"
   -
     scope:
       path: ""
