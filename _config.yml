@@ -57,6 +57,7 @@ defaults:
     values:
       show_sidebar: true
       #hero_image: "/chaire-risques-bulma/assets/images/istockphoto-155742227-1024x1024.jpg"
+      hero_image: /chaire-risques-bulma/assets/images/cyber-attack.jpg
   -
     scope:
       path: ""
