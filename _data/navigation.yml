@@ -1,6 +1,8 @@
+- name: Actualités
+  link: /blog/
 - name: Membres
   link: /membres/
 - name: Publications
-  link: /blog/
+  link: /publications/
 - name: Nous contacter
   link: /contact/

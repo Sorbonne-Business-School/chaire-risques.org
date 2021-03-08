@@ -8,7 +8,7 @@ items:
       La chaire est un lieu de réflexion, de collaboration, et de travail scientifique, académique et professionnel autour de la thématique Risques.
       <br><br><br><br>
     call_to_action_name: Nos travaux
-    call_to_action_link: /blog/
+    call_to_action_link: /publications/
   - title: Réunir
     subtitle: <br>La chaire réunit une équipe pluridisciplinaire dont les travaux de recherche sont orientés sur la thématique des risques 
     icon: fa-handshake
