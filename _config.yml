@@ -5,7 +5,8 @@ email: your-email@domain.com
 description: >
   IAE de Paris, Sorbonne Business School
 permalink: pretty
-#favicon: /path/to/favicon.png
+favicon: /favicon.png
+
 #gh_sponsor: chrisrhymes
 #hide_share_buttons: true
 #theme_color: '#eeeeee'
