@@ -5,10 +5,10 @@ subtitle: Les publications scientifiques de la Chaire
 permalink: /publications/
 ---
 
-# Isabelle Cadet 
-## « Les droits de l'homme et responsabilité sociétale des organisations au sein des collectivités territoriales » 
+## 120 travaux publiés par les membres permanents
 
-Les droits de l'homme à l'épreuve du local, Editions Mare et Martin, Tome 1, 2020, p. 163 à 192.
+### Nos dernières publications :
 
-[En savoir plus...](http://www.mareetmartin.com/livre/les-droits-de-lhomme-a-lepreuve-du-local-tome-1)
+- **« Les droits de l'homme et responsabilité sociétale des organisations au sein des collectivités territoriales »**. Les droits de l'homme à l'épreuve du local, Editions Mare et Martin, Tome 1, 2020, p. 163 à 192. [En savoir plus...](http://www.mareetmartin.com/livre/les-droits-de-lhomme-a-lepreuve-du-local-tome-1)
 
+- ...
