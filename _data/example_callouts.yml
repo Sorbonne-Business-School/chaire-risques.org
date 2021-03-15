@@ -1,28 +1,26 @@
 style: is-light
-height: is-medium
+height: is-small
 items:
   - title: Comprendre
     subtitle: <br>Comprendre la façon dont la société se structure face aux nouveaux risques (cybersécurité, normes et évolution des prises de décision)
     icon: fa-brain
     description: >
-      La chaire est un lieu de réflexion, de collaboration, et de travail scientifique, académique et professionnel autour de la thématique Risques.
-      <br><br><br><br>
+      La chaire est un lieu de réflexion, de collaboration, et de travail scientifique, académique et professionnel autour de la thématique Risques
     call_to_action_name: Nos travaux
     call_to_action_link: /publications/
   - title: Réunir
     subtitle: <br>La chaire réunit une équipe pluridisciplinaire dont les travaux de recherche sont orientés sur la thématique des risques 
     icon: fa-handshake
     description: >
-      Le sujet étant transversal par nature, la chaire est conçue comme un « hub » pour des recherches autour de la notion de risque. 
-      
-      Elle vise à fédérer des chercheurs, mais aussi à servir de centre de ressources et de compétences afin de pouvoir répondre à des demandes d’entreprises, de professionnels et plus largement sociales.
+      Le sujet étant transversal par nature, la chaire est conçue comme un « hub » pour des recherches autour de la notion de risque 
+      <br>
     call_to_action_name: Nos membres
     call_to_action_link: /membres/
   - title: Informer
     subtitle: <br>Vous souhaitez nous rejoindre en tant que partenaire de la chaire Risques de l'IAE de Paris ? <br><br> 
     icon: fa-rss
     description: >
-      Nous rassemblons des équipes de très haut niveau national et international et offrons une grande visibilité à nos partenaires, en leur offrant des accès collaboratifs à des projets et développements structurants (études stratégiques, formations, Think Tank, learning expeditions, etc).
+      Nous rassemblons des équipes de très haut niveau et offrons une grande visibilité à nos partenaires
       <br>
     call_to_action_name: Nous rejoindre
     call_to_action_link: /contact/
