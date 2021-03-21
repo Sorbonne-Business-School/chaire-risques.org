@@ -5,7 +5,7 @@ items:
     subtitle: <br>Comprendre la façon dont la société se structure face aux nouveaux risques (cybersécurité, normes et évolution des prises de décision)
     icon: fa-brain
     description: >
-      La chaire est un lieu de réflexion, de collaboration, et de travail scientifique, académique et professionnel autour de la thématique Risques
+      Lieu de réflexion, de collaboration, et de travail scientifique, académique et professionnel autour d'une thématique
     call_to_action_name: Nos travaux
     call_to_action_link: /publications/
   - title: Réunir
@@ -13,14 +13,12 @@ items:
     icon: fa-handshake
     description: >
       Le sujet étant transversal par nature, la chaire est conçue comme un « hub » pour des recherches autour de la notion de risque 
-      <br>
     call_to_action_name: Nos membres
     call_to_action_link: /membres/
   - title: Informer
     subtitle: <br>Vous souhaitez nous rejoindre en tant que partenaire de la chaire Risques de l'IAE de Paris ? <br><br> 
     icon: fa-rss
     description: >
-      Nous rassemblons des équipes de très haut niveau et offrons une grande visibilité à nos partenaires
-      <br>
+      Nous rassemblons des équipes de très haut niveau national/international et offrons une grande visibilité à nos partenaires
     call_to_action_name: Nous rejoindre
     call_to_action_link: /contact/
