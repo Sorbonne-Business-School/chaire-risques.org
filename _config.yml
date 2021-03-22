@@ -57,7 +57,7 @@ defaults:
       type: "pages"
     values:
       show_sidebar: true
-      hero_image: /chaire-risques.org/assets/images/cyber-attack.jpg
+      hero_image: /assets/images/cyber-attack.jpg
   -
     scope:
       path: ""
