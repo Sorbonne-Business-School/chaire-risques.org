@@ -9,9 +9,6 @@ permalink: /contact/
 
 Nous rassemblons des équipes de très haut niveau national et international et offrons une grande visibilité à nos partenaires, en leur offrant des accès collaboratifs à des projets et développements structurants (études stratégiques, formations, Think Tank, learning expeditions, etc).
 
-![logo-chaire-risques](/chaire-risques-bulma/assets/images/LogoChaireRisques.png){:class="image is-128x128"}
-
-
 ### Nous contacter 
 
 #### Adresse
