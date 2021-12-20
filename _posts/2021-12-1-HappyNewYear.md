@@ -8,6 +8,7 @@ hero_darken: true
 hero_image: 
 image: 
 canonical_url:
+published: false
 ---
 
 TEST
