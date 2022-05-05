@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CONFÉRENCE | La compliance dans tous ces états - 19 mai 2022
+title: CONFÉRENCE | La compliance dans tous ses états - 19 mai 2022
 tags: Conférence Compliance
 date: 2022-05-05 09:00:00
 hero_image: http://iae-paris.com/sites/default/files/styles/eventdetail_867x476/public/2021-05/microphone-704255_1920-site.jpg
