@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CONFÉRENCE | La compliance dans tous ses états - 19 mai 2022
+title: CONFÉRENCE | La compliance dans tous ses états - 16 mai 2022
 tags: Conférence Compliance
 date: 2022-05-05 09:00:00
 hero_image: http://iae-paris.com/sites/default/files/styles/eventdetail_867x476/public/2021-05/microphone-704255_1920-site.jpg
@@ -19,7 +19,7 @@ via zoom et salle D5
 12 rue Jean Antoine de Baïf
 75013 Paris        
 
-Entre la crise sanitaire, la guerre économique sino-américaine, l'invasion russe en Ukraine et les sanctions qui en ont découlés, la compliance devient plus que jamais un sujet strategique. En quoi les évolutions du contexte perturbé que nous traversons vont changer les pratiques et exigences ? Quel enjeux pour l'export control et les 
+Entre la crise sanitaire, la guerre économique sino-américaine, l'invasion russe en Ukraine et les sanctions qui en ont découlé, la compliance devient plus que jamais un sujet strategique. En quoi les évolutions du contexte perturbé que nous traversons vont changer les pratiques et exigences ? Quel enjeux pour l'export control et les 
 énergies?
 
 Pour avancer sur ces questions,
